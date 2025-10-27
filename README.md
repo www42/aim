@@ -26,7 +26,7 @@
 
 [Learning Path][LP2]
 
-[Emails](/Emails/AZ-1003%20Emails.txt)
+[Emails](/Emails/AZ-1003-Emails.md)
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
 
@@ -36,7 +36,7 @@
 
 [Learning Path][LP3]
 
-[Emails](/Emails/AZ-1003-Emails.md)
+[Emails](/Emails/AZ-1004%20Emails.txt)
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/)
 
