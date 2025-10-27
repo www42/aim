@@ -9,7 +9,6 @@
 
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
-<br>
 
 # Azure Implement & Manage (Applied Skills)
 
@@ -19,7 +18,7 @@
 
 [Emails](/Emails/AZ-1002%20Emails.txt)
 
-[Assessment]
+[Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/)
 
 <br>
 
@@ -29,6 +28,8 @@
 
 [Emails](/Emails/AZ-1003%20Emails.txt)
 
+[Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
+
 <br>
 
 ## AZ-1004 Deploy and configure Azure Monitor
@@ -36,6 +37,8 @@
 [Learning Path][LP3]
 
 [Emails](/Emails/AZ-1003%20Emails.txt)
+
+[Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/)
 
 <br>
 
@@ -77,9 +80,29 @@
 
 [Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 
+[Azure Virtual Network documentation](https://learn.microsoft.com/en-us/azure/virtual-network/)
+
+[Azure DNS documentation](https://learn.microsoft.com/en-us/azure/dns/)
+
+[Azure Firewall documentation](https://learn.microsoft.com/en-us/azure/firewall/)
+
+[Azure Storage documentation](https://learn.microsoft.com/en-us/azure/storage/)
+
+[Azure Blob Storage documentation](https://learn.microsoft.com/en-us/azure/storage/blobs/)
+
+[Azure Files documentation](https://docs.azure.cn/en-us/storage/files/)
+
+[Azure Monitor documentation - Azure Monitor | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-monitor/)
+
+[Kusto documentation](https://learn.microsoft.com/en-us/kusto/?view=microsoft-fabric)
+
+<br>
 
 ## Useful Links
 
+[Microsoft Ignite - November 18–21, 2025](https://ignite.microsoft.com/en-US/home)
+
+<br>
 <br>
 
 ## Your Trainer
