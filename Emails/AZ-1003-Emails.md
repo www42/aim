@@ -23,7 +23,7 @@ You will be assisting the storage team to provision and configure storage accoun
 Here are your credentials to access our Azure resources:
 
 User name:
-
+<br>
 Password:
 
 You can also find the sign in information in the Instructions tab.

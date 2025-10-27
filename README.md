@@ -16,7 +16,7 @@
 
 [Learning Path][LP1]
 
-[Emails](/Emails/AZ-1002%20Emails.txt)
+[Emails](/Emails/AZ-1002-Emails.md)
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/)
 
@@ -36,7 +36,7 @@
 
 [Learning Path][LP3]
 
-[Emails](/Emails/AZ-1004%20Emails.txt)
+[Emails](/Emails/AZ-1004-Emails.md)
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/)
 
