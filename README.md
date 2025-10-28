@@ -30,6 +30,8 @@
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
 
+[Additional Readings](AdditionalReadings-AZ-1003.md)
+
 <br>
 
 ## AZ-1004 Deploy and configure Azure Monitor
