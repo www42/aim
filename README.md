@@ -20,6 +20,8 @@
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/)
 
+[Optional: Lab instructions HTML](https://microsoftlearning.github.io/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/)
+
 <br>
 
 ## AZ-1003 Secure storage for Azure Files and Azure Blob Storage
@@ -29,6 +31,8 @@
 [Emails](/Emails/AZ-1003-Emails.md)
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
+
+[Optional: Lab instructions HTML](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/)
 
 [Additional Readings](AdditionalReadings-AZ-1003.md)
 
@@ -42,15 +46,19 @@
 
 [Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/)
 
+[Optional: Lab instructions HTML](https://microsoftlearning.github.io/AZ-1004-deploy-configure-azure-monitor/)
+
 <br>
 
 ## AZ-1007 Deploy and administer Linux virtual machines on Azure
 
 [Learning Path][LP4]
 
+[Optional: Lab instructions HTML](https://microsoftlearning.github.io/Deploy-and-administer-Linux-virtual-machines-in-Azure/)
+
 <br>
 
-## Labs
+## Labs Environment
 
 <!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
@@ -94,7 +102,7 @@
 
 [Azure Files documentation](https://docs.azure.cn/en-us/storage/files/)
 
-[Azure Monitor documentation - Azure Monitor | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-monitor/)
+[Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
 
 [Kusto documentation](https://learn.microsoft.com/en-us/kusto/?view=microsoft-fabric)
 
