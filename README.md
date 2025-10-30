@@ -69,7 +69,7 @@
 
 <br>
 
-## Labs Environment
+# Labs Environment
 
 <!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
@@ -79,7 +79,7 @@
 
 <br>
 
-## Microsoft Learn
+# Microsoft Learn
 
 [Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
 
