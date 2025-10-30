@@ -58,6 +58,17 @@
 
 <br>
 
+## Optional: Get startet with Azure management tasks
+
+[Learning Path](https://learn.microsoft.com/en-us/training/paths/introduction-microsoft-azure-management-tasks/)
+
+[Emails](/Emails/Emails%20Get%20startet%20with%20Azure%20management%20tasks.md)
+
+[Assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-with-azure-management-tasks/)
+
+
+<br>
+
 ## Labs Environment
 
 <!--
